@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/yaml": "^6.0",
+        "spatie/array-to-xml": "^3.2"
+    }
+}
